@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently working on <br>      - my data analytics skills<br>      - building my data science portfolio<br>      - getting to speed with applications of ML<br><br>💻 Ongoing Project<br>      - personal portolio website<br>      - financial deliquency detection<br>      - data science project of comparing classification algos<br><br>💭Lets chat on<br>      - classification algorithms<br>      - GeoSpatial Science<br>      - STEM<br><br>🌐early glimpse:<br><br>uditasopa.netlify.app<br>
+🔭 I'm Currently working on <br>      - my data analytics skills<br>      - building my data science portfolio<br>      - getting to speed with applications of ML<br><br>💻 Ongoing Project<br>      - personal portolio website<br>      - financial deliquency detection<br>      - data science project of comparing classification algos<br><br>💭Lets chat on<br>      - classification algorithms<br>      - GeoSpatial Science<br>      - STEM<br><br>🌐early glimpse:<br><br>[uditasopa.netlify.app](https://uditasopa.netlify.app/)<br>
 
 
 ## 🌐 Socials:
