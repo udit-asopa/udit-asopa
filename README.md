@@ -1,56 +1,27 @@
-# Udit Asopa
+# 💫 About Me:
+# Udit Asopa<br><br>Geospatial AI Engineer | Earth Observation Specialist | Data Scientist<br><br>I build production-grade Python workflows, machine learning systems, and geospatial analytics products for Earth observation and environmental intelligence. My work sits at the intersection of remote sensing, SAR/InSAR, AI, and scientific software engineering.<br><br>Currently I am focused on:<br>- GenAI and LLM applications for EO and decision support<br>- Disaster response analytics and uncertainty-aware retrieval systems<br>- Reproducible data science pipelines and MLOps-ready delivery<br>- Sharing my work through a portfolio, hackathons, talks, and publications<br><br>## What I’m working on<br>- Portfolio website: [udit-asopa.github.io](https://udit-asopa.github.io)<br>- Portfolio repo: [github.com/udit-asopa/udit-asopa.github.io](https://github.com/udit-asopa/udit-asopa.github.io)<br>- Geospatial AI and disaster triage workflows<br>- Earth observation analytics and SAR research<br>- Practical GenAI projects with grounded, explainable outputs<br><br>## Highlights<br>- Data Scientist at Brockmann Geomatics Sweden AB<br>- Former roles across ICEYE, TU Delft, ISRO / IIRS, and IIT Bombay<br>- 2nd Prize at ThinkingEarth Hackathon at BiDS 2025 for [Disaster-GeoRAG](https://devpost.com/software/disaster-georag)<br>- Experience across SAR, InSAR, PolSAR, remote sensing, and geospatial data engineering<br>- 7 peer-reviewed publications in Earth observation and geoscience<br><br>## Let’s connect about<br>- Geospatial AI and Earth observation<br>- Remote sensing, SAR, and InSAR<br>- GenAI, RAG, and multimodal workflows<br>- Data science, science communication, and product-minded analytics<br><br>## Find me here<br>- LinkedIn: [linkedin.com/in/uditasopa](https://linkedin.com/in/uditasopa)<br>- Email: [udit.asopa@gmail.com](mailto:udit.asopa@gmail.com)<br>- GitHub: [github.com/udit-asopa](https://github.com/udit-asopa)<br>- Portfolio: [uditasopa.netlify.app](https://www.uditasopa.netlify.app)<br>- Google Scholar: [scholar.google.com/citations?user=pWEISYcAAAAJ](https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en)
 
-Geospatial AI Engineer | Earth Observation Specialist | Data Scientist
 
-I build production-grade Python workflows, machine learning systems, and geospatial analytics products for Earth observation and environmental intelligence. My work sits at the intersection of remote sensing, SAR/InSAR, AI, and scientific software engineering.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditasopa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udit.asopa@gmail.com) 
 
-Currently I am focused on:
-- GenAI and LLM applications for EO and decision support
-- Disaster response analytics and uncertainty-aware retrieval systems
-- Reproducible data science pipelines and MLOps-ready delivery
-- Sharing my work through a portfolio, hackathons, talks, and publications
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=udit-asopa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=udit-asopa&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=udit-asopa&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## What I’m working on
-- Portfolio website: [udit-asopa.github.io](https://udit-asopa.github.io)
-- Portfolio repo: [github.com/udit-asopa/udit-asopa.github.io](https://github.com/udit-asopa/udit-asopa.github.io)
-- Geospatial AI and disaster triage workflows
-- Earth observation analytics and SAR research
-- Practical GenAI projects with grounded, explainable outputs
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=udit-asopa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Highlights
-- Data Scientist at Brockmann Geomatics Sweden AB
-- Former roles across ICEYE, TU Delft, ISRO / IIRS, and IIT Bombay
-- 2nd Prize at ThinkingEarth Hackathon at BiDS 2025 for [Disaster-GeoRAG](https://devpost.com/software/disaster-georag)
-- Experience across SAR, InSAR, PolSAR, remote sensing, and geospatial data engineering
-- 7 peer-reviewed publications in Earth observation and geoscience
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Let’s connect about
-- Geospatial AI and Earth observation
-- Remote sensing, SAR, and InSAR
-- GenAI, RAG, and multimodal workflows
-- Data science, science communication, and product-minded analytics
-
-## Find me here
-- LinkedIn: [linkedin.com/in/uditasopa](https://linkedin.com/in/uditasopa)
-- Email: [udit.asopa@gmail.com](mailto:udit.asopa@gmail.com)
-- GitHub: [github.com/udit-asopa](https://github.com/udit-asopa)
-- Portfolio: [udit-asopa.github.io](https://udit-asopa.github.io)
-- Google Scholar: [scholar.google.com/citations?user=pWEISYcAAAAJ](https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en)
-
-## Core stack
-Python · SQL · TypeScript · React · Next.js · PyTorch · scikit-learn · pandas · NumPy · GeoPandas · Rasterio · GDAL · QGIS · Docker · GitHub Actions · Linux
-
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udit-asopa&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-asopa&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udit-asopa&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=udit-asopa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=udit-asopa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-If you want to see the full portfolio and writing, visit [udit-asopa.github.io](https://udit-asopa.github.io).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
