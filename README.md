@@ -4,7 +4,9 @@
 
 I build production-grade data pipelines, ML systems, and geospatial analytics products where satellite data meets real-world decisions. My work sits at the intersection of SAR/InSAR remote sensing, scientific software engineering, and applied AI.
 
-Currently at **[Brockmann Geomatics Sweden AB](http://www.brockmann-geomatics.se/)** — working on **[Horizon Europe OASIS](https://oasis-project.eu/)** and **[ESA AQUATIME](https://esaaquatime.com/)** projects.
+Currently at **[Brockmann Geomatics Sweden AB](http://www.brockmann-geomatics.se/)** - working on **[Horizon Europe OASIS](https://oasis-project.eu/)** and **[ESA AQUATIME](https://esaaquatime.com/)** projects.
+
+[My CV](https://uditasopa.netlify.app/media/UditAsopa_CV.pdf)
 
 ---
 
@@ -23,8 +25,8 @@ Currently at **[Brockmann Geomatics Sweden AB](http://www.brockmann-geomatics.se
 | Project | What it does | Stack |
 |---|---|---|
 | [Disaster GeoRAG](https://devpost.com/software/disaster-georag) 🏆 *2nd place · BiDS 2025* | Retrieval-augmented VLM pipeline for EO imagery triage in disaster response | Python · FAISS · LangChain · VLM |
-| [Vision Text Extractor](https://github.com/udit-asopa/vision-text-extractor) | Privacy-aware OCR CLI — local (SmolVLM, LLaVA) or cloud (GPT-4o), one-command setup | Python · pixi · HuggingFace · Ollama |
-| [Similarity Search — ChromaDB](https://github.com/udit-asopa/similarity_search_chromadb) | Semantic search system with FastAPI backend, web dashboard, CI pipeline, and test coverage | Python · ChromaDB · FastAPI · SentenceTransformers |
+| [Vision Text Extractor](https://github.com/udit-asopa/vision-text-extractor) | Privacy-aware OCR CLI - local (SmolVLM, LLaVA) or cloud (GPT-4o), one-command setup | Python · pixi · HuggingFace · Ollama |
+| [Similarity Search - ChromaDB](https://github.com/udit-asopa/similarity_search_chromadb) | Semantic search system with FastAPI backend, web dashboard, CI pipeline, and test coverage | Python · ChromaDB · FastAPI · SentenceTransformers |
 | [LiDAR Data Processor](https://github.com/udit-asopa/lidar_data_processer_and_sampler) | Point cloud processing and sampling for forest structure analysis | Python · LiDAR |
 | [InSAR / pygmtsar](https://github.com/udit-asopa/pygmtsar) | DInSAR and PSInSAR time-series workflows for ground deformation monitoring | Python · GMTSAR · Sentinel-1 |
 
@@ -47,7 +49,7 @@ infra     = ["Docker", "Git", "GitHub Actions", "FastAPI", "pixi", "Linux", "LUM
 | Project | Goal |
 |---|---|
 | 🔄 Geospatial vector retrieval for SAR change detection | Production-ready GeoAI retrieval combining spatial indexing with semantic search |
-| 🔄 EO time-series forecasting — transformer + classical hybrid | Benchmarking PatchTST, N-HiTS, and Mamba on environmental sensor data |
+| 🔄 EO time-series forecasting - transformer + classical hybrid | Benchmarking PatchTST, N-HiTS, and Mamba on environmental sensor data |
 | 🔄 AQUATIME / OASIS pipelines @ Brockmann | Reproducible ML workflows for water quality and land surface analytics at ESA/EU scale |
 
 ---
@@ -67,7 +69,7 @@ upskilling = {
 
 ## Research
 
-7 peer-reviewed publications in Earth observation and geoscience —
+7 peer-reviewed publications in Earth observation and geoscience -
 SAR tomography · PolSAR calibration · InSAR time-series · land subsidence · UHI analysis
 
 → [Google Scholar](https://scholar.google.com/citations?user=pWEISYcAAAAJ&hl=en)
