@@ -1,10 +1,14 @@
 # 💫 Udit Asopa
 
-## Geospatial Data Engineer · Earth Observation · AI Systems
+## Geospatial Data Engineer · Earth Observation · AI Systems · Data Science · Machine Learning
 
 I build production-grade data pipelines, ML systems, and geospatial analytics products where satellite data meets real-world decisions. My work sits at the intersection of SAR/InSAR remote sensing, scientific software engineering, and applied AI.
 
-Currently at **[Brockmann Geomatics Sweden AB](http://www.brockmann-geomatics.se/)** - working on **[Horizon Europe OASIS](https://oasis-project.eu/)** and **[ESA AQUATIME](https://esaaquatime.com/)** projects.
+Currently working at **[NestAI Oy](https://www.nestai.com/)**.
+
+Formerly worked at **[Brockmann Geomatics Sweden AB](http://www.brockmann-geomatics.se/)** - working on **[Horizon Europe OASIS](https://oasis-project.eu/)** and **[ESA AQUATIME](https://esaaquatime.com/)** projects with Petra Phillipson, Erwin Wolters, Susanne Thulin, Marcel Koenig, Yogesh Kumar Baljeet Singh, Carsten Brockmann.
+
+Formerly worked at **[ICEYE Oy, Finland](https://www.iceye.com)** - worked on natural catastrophe monitoring and Earth observation based change detection methodology developement.
 
 [My CV](https://uditasopa.netlify.app/media/UditAsopa_CV.pdf)
 
@@ -58,7 +62,7 @@ infra     = ["Docker", "Git", "GitHub Actions", "FastAPI", "pixi", "Linux", "LUM
 
 ```python
 upskilling = {
-    "data_engineering" : ["Apache Airflow", "dbt", "Kafka", "GeoParquet", "PostGIS"],
+    "data_engineering" : ["Apache Nifi","Apache Airflow", "dbt", "Kafka", "GeoParquet", "PostGIS"],
     "cloud_infra"      : ["Kubernetes", "Terraform", "GCP (BigQuery, GCS)", "AWS S3/Lambda"],
     "mlops"            : ["model registries", "feature stores", "pipeline orchestration"],
     "geospatial_new"   : ["COG workflows", "STAC catalogues", "OpenEO", "Zarr at scale"],
